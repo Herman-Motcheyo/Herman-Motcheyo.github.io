@@ -8,9 +8,9 @@ function AddRow()
 
   var day = document.getElementById("day").value;
 
-  if(!work || !time)
+  if(!work || !time || !day)
   {
-    alert("Please fill all boxes!")
+    alert("Please fill all boxes! thank!")
     return;
   }
   var mytable= document.getElementById("mytable");
