@@ -1,20 +1,41 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant - Machine Learning and Database Theory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-teaching-assistant
+venue: "National Advanced School of Engineering of Yaoundé"
+date: 2023-09-01
+location: "Yaoundé, Cameroon"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant position under the supervision of Dr. Lauraine Tiogning, where I delivered lectures and mentored students in core concepts of machine learning and database theory.
 
-Heading 1
+Responsibilities
 ======
 
-Heading 2
+* Delivered lectures on machine learning fundamentals and database theory concepts
+* Mentored students through their learning journey in AI and data management
+* Developed practical exercises and hands-on projects to reinforce theoretical concepts
+
+Practical Work
 ======
 
-Heading 3
+* Guided students through Python-based implementations of machine learning algorithms
+* Created optimization problem exercises to develop problem-solving skills
+* Designed projects that bridged theory and practical application
+
+Student Support
 ======
+
+* Provided comprehensive exam preparation support
+* Conducted office hours for individual student consultations
+* Assisted students in debugging code and understanding complex algorithms
+* Evaluated assignments and provided constructive feedback
+
+Skills Developed
+======
+
+* Pedagogical skills in explaining complex technical concepts
+* Curriculum development and exercise design
+* Student mentoring and academic guidance
+* Python programming instruction and code review

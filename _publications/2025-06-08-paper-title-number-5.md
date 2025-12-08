@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Still Malignant if You Were a Woman? Auditing Group and Counterfactual Fairness in Dermatological AI"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-dermatological-fairness
+excerpt: 'This paper audits group and counterfactual fairness in dermatological AI systems, examining how diagnostic accuracy varies across demographic groups and under counterfactual interventions.'
+date: 2025-01-01
+venue: 'CRI 2025 Conference'
+paperurl: 'http://cri-info.cm/'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This research addresses algorithmic fairness in medical AI, specifically focusing on dermatological diagnosis systems. We audit both group fairness and counterfactual fairness to ensure that AI-driven skin lesion classification systems provide equitable diagnostic accuracy across different demographic groups, particularly examining gender-based disparities in malignancy detection.

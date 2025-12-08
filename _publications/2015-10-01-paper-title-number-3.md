@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Machine learning and deep learning for the prediction of thermal comfort based on a sustainable porous matrix: A bibliometrix analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-thermal-comfort-bibliometrix
+excerpt: 'A comprehensive bibliometrix analysis examining the application of machine learning and deep learning techniques for predicting thermal comfort in sustainable porous materials.'
+date: 2025-01-01
+venue: 'Energy Efficiency (Under Review)'
+paperurl: ''
+citation: 'L. Tiogning-Djiogue, H. Tcheneghon Motcheyo, Julson Aymard Tchio, Elie Kamseu, Sylvie Rossignol, Cristina Leonelli. (2025). &quot;Machine learning and deep learning for the prediction of thermal comfort based on a sustainable porous matrix: A bibliometrix analysis.&quot; <i>Energy Efficiency</i>. Under review.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This bibliometrix study provides a systematic review of machine learning and deep learning applications in thermal comfort prediction using sustainable porous matrices. We analyze research trends, identify key methodologies, and highlight opportunities for advancing AI-driven approaches in energy-efficient building materials.
