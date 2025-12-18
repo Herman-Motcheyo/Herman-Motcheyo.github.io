@@ -13,7 +13,7 @@ Currently, I'm working on optimal transport and streaming data, with strong inte
 
 Research Interests
 ======
-Machine Learning, Deep Learning, Fairness in AI, Algorithmic Fairness, Optimal Transport, Healthcare AI, Dimensionality Reduction, Feature Selection
+Machine Learning, Deep Learning, Fairness in AI,  Feature Selection
 
 Highlights/News
 ======
@@ -34,3 +34,11 @@ Highlights/News
 * Travel Research Fellow invited by AUF for VaRRIWA exhibition in Lomé, Togo (Sept 2023)
 
 * Student Participation Award at EDBT 26th International Conference on Extending Database Technology (March 2023)
+
+
+
+Looking Forward
+======
+I'm actively seeking **PhD opportunities** in applied machine learning or deep learning, with or without a multidisciplinary environment.
+
+📧 Feel free to reach out: [hermanmotcheyo@gmail.com](mailto:hermanmotcheyo@gmail.com)
