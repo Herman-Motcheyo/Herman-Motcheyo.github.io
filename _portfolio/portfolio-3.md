@@ -1,6 +1,6 @@
 ---
 title: "Beautiful cathedral in Clermont-Ferrand :)"
-excerpt: "I like picture and exploration <br/><img src='/images/herman.jpg'>"
+excerpt: "I like picture and exploration <br/><img src='/images/cathedrale.jpg'>"
 collection: portfolio
 ---
 
