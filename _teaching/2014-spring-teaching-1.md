@@ -8,12 +8,11 @@ date: 2023-09-01
 location: "Yaoundé, Cameroon"
 ---
 
-Teaching Assistant position under the supervision of Dr. Lauraine Tiogning, where I delivered lectures and mentored students in core concepts of machine learning and database theory.
+Teaching Assistant position under the supervision of Dr. Lauraine Tiogning, where I  mentored students in core concepts of machine learning and database theory.
 
 Responsibilities
 ======
 
-* Delivered lectures on machine learning fundamentals and database theory concepts
 * Mentored students through their learning journey in AI and data management
 * Developed practical exercises and hands-on projects to reinforce theoretical concepts
 
