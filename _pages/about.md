@@ -9,15 +9,17 @@ redirect_from:
 
 Hello! I'm *Herman Tcheneghon Motcheyo*, a Master's student in International Computer Science at ISIMA - Université Clermont Auvergne. I'm passionate about cutting-edge technologies and enjoy building innovative solutions by combining AI with other fields to tackle challenging problems and deliver impactful projects.
 
-Currently, I'm working on optimal transport and streaming data, with strong interests in trustworthy AI, fairness in machine learning, and healthcare applications.
+Currently, I'm working on optimal transport and streaming data, with strong interests in trustworthy AI
 
 Research Interests
 ======
 Machine Learning, Deep Learning, Fairness in AI,  Feature Selection
 
+
+
 Highlights/News
 ======
-* Paper accepted at CRI'2025 Conference: "Still Malignant if You Were a Woman? Auditing Group and Counterfactual Fairness in Dermatological AI"
+* Our paper accepted at CRI'2025 Conference: "Still Malignant if You Were a Woman? Auditing Group and Counterfactual Fairness in Dermatological AI"
 
 * Published research on machine learning for sustainable materials optimization in Open Ceramics journal (2025)
 
@@ -34,6 +36,8 @@ Highlights/News
 * Travel Research Fellow invited by AUF for VaRRIWA exhibition in Lomé, Togo (Sept 2023)
 
 * Student Participation Award at EDBT 26th International Conference on Extending Database Technology (March 2023)
+
+
 
 
 
