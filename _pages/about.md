@@ -7,42 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm *Herman Tcheneghon Motcheyo*, a Master's student in International Computer Science at ISIMA - Université Clermont Auvergne. I'm passionate about cutting-edge technologies and enjoy building innovative solutions by combining AI with other fields to tackle challenging problems and deliver impactful projects.
+I am **Herman Tcheneghon Motcheyo**, a Master's student in International Computer Science at **ISIMA – Université Clermont Auvergne**. My research sits at the intersection of **Optimal Transport**, and **Trustworthy Machine Learning**, with applications to anomaly detection, domain adaptation, and fairness in medical AI.
 
-Currently, I'm working on optimal transport and streaming data, with strong interests in trustworthy AI
+Currently, I am a Junior Researcher at **LIMOS Laboratory**, where I design novel algorithms for anomaly detection in streaming data using optimal transport and domain adaptation.
 
 Research Interests
 ======
-Machine Learning, Deep Learning, Fairness in AI,  Feature Selection
-
+Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairness in AI,  Trustworthy AI,  Medical Imaging 
 
 
 Highlights/News
 ======
-* Our paper accepted at CRI'2025 Conference: "Still Malignant if You Were a Woman? Auditing Group and Counterfactual Fairness in Dermatological AI"
+* **[Mar 2026]** Started an internship at **LIMOS (CNRS)** on data streams, domain adaptation, and optimal transport.
+* **[Jan 2026]** Poster accepted at **EGC 2026**: *"Accélération des motifs graduels fréquents avec réduction de dimensionnalité"* — [conference link](https://conferences.sigappfr.org/egc2026/).
+* **[Oct 2025]** Joined **LIMOS** for my M2 research project on optimal transport for streaming data.
+* **[2025]** Paper accepted at **CRI 2025**: *"Still Malignant if You Were a Woman? Auditing Group and Counterfactual Fairness in Dermatological AI"*.
+* **[2025]** Published in **Open Ceramics** (Q1/Q2, Elsevier): *"Machine Learning for the Optimization of Porosity-Hygroscopy Correlations of Porous Geopolymers"*.
+* **[2025]** Awarded the **MIAI Cluster M2 Excellence Scholarship** (Grenoble AI Institute / Clermont-Ferrand).
+* **[2024]** **Top 20 Finalist** — CANAM Cameroon National AI Competition.
 
-* Published research on machine learning for sustainable materials optimization in Open Ceramics journal (2025)
-
-* Teaching Assistant at National Advanced School of Engineering of Yaoundé (Sep 2023 – Aug 2025), delivering lectures on machine learning and database theory
-
-* Awarded MIAI Cluster M2 Excellence Scholarship for 2025-2026 at Clermont-Ferrand, France
-
-* Finalist in CANAM Cameroon AI Competition (March 2024) - Top 20 among participants
-
-* Published MLOps articles on Medium covering Machine Learning Operations and Data Version Control (DVC)
-
-* Master's Research Fellow selected by European Union-funded PRICNAC project (2022-2024)
-
-* Travel Research Fellow invited by AUF for VaRRIWA exhibition in Lomé, Togo (Sept 2023)
-
-* Student Participation Award at EDBT 26th International Conference on Extending Database Technology (March 2023)
+---
 
 
-
-
-
-Looking Forward
-======
-I'm actively seeking **PhD opportunities** in applied machine learning or deep learning, with or without a multidisciplinary environment.
-
-📧 Feel free to reach out: [hermanmotcheyo@gmail.com](mailto:hermanmotcheyo@gmail.com)
+📧 **Contact:** [hermanmotcheyo@gmail.com](mailto:hermanmotcheyo@gmail.com)  
