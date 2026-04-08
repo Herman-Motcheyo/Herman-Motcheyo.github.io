@@ -24,8 +24,7 @@ redirect_from:
 
 **Junior Researcher / Research Intern** — LIMOS (CNRS UMR 6158), Clermont-Ferrand · Oct 2025–Present  
 Optimal transport for anomaly detection in multivariate data streams; domain adaptation; online learning.  
-*Supervisors: Dr. Issam Falih, Prof. Engelbert Mephu Nguifo*  
-📄 [Research Report – Marcg 2026](https://drive.google.com/file/d/1lSJHm2kWc6zDTdiiXI9KQewwc2DnNyi1/view?usp=sharing) · [Research Report – Dec 2025](https://drive.google.com/file/d/12vUm_XQvD6MKbABsk6v5ThXqarhsjOu1/view?usp=sharing)
+
 
 **Research Assistant** — EEPER / PRICNAC EU Project · May 2024–Jun 2025  
 Gradual pattern mining, Formal Concept Analysis, AI for sustainable materials (geopolymers).  
