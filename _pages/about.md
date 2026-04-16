@@ -18,7 +18,7 @@ Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairnes
 
 Highlights/News
 ======
-* **[April 2026]** My Paper accepted at **28th International Symposium on Methodologies for Intelligent Systems (ISMIS)**: *"Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction"*
+* **[April 2026]** Paper accepted at **28th International Symposium on Methodologies for Intelligent Systems (ISMIS)**: *"Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction"*
 * **[Mar 2026]** Started an internship at **LIMOS (CNRS)** on data streams, domain adaptation, and optimal transport.
 * **[Jan 2026]** Poster accepted at **EGC 2026**: *"Accélération des motifs graduels fréquents avec réduction de dimensionnalité"* — [conference link](https://conferences.sigappfr.org/egc2026/).
 * **[Oct 2025]** Joined **LIMOS** for my M2 research project on optimal transport for streaming data.
