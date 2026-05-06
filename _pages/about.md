@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am **Herman Tcheneghon Motcheyo**, a Master's student in International Computer Science at **ISIMA – Université Clermont Auvergne**. My research sits at the intersection of **Optimal Transport**, and **Trustworthy Machine Learning**, with applications to anomaly detection, domain adaptation, and fairness in medical AI.
+I am **Herman Tcheneghon Motcheyo**, a Master's student in International Computer Science at **ISIMA – Université Clermont Auvergne**. My research sits at the intersection of **Optimal Transport**, and **Trustworthy Machine Learning**, with applications to anomaly detection, domain adaptation, and fairness.
 
 Currently, I am a Junior Researcher at **LIMOS Laboratory**, where I design novel algorithms for anomaly detection in streaming data using optimal transport and domain adaptation.
 
 Research Interests
 ======
-Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairness in AI,  Trustworthy AI,  Medical Imaging 
+Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairness in AI,  Trustworthy AI
 
 
 Highlights/News
 ======
 * **[April 2026]** Paper accepted at **28th International Symposium on Methodologies for Intelligent Systems (ISMIS)**: *"Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction"*
-* **[Mar 2026]** Started an internship at **LIMOS (CNRS)** on data streams, domain adaptation, and optimal transport.
+* **[Mar 2026]** Started my internship at **LIMOS (CNRS)** on data streams, domain adaptation, and optimal transport.
 * **[Jan 2026]** Poster accepted at **EGC 2026**: *"Accélération des motifs graduels fréquents avec réduction de dimensionnalité"* — [conference link](https://conferences.sigappfr.org/egc2026/).
 * **[Oct 2025]** Joined **LIMOS** for my M2 research project on optimal transport for streaming data.
 * **[2025]** Paper accepted at **CRI 2025**: *"Still Malignant if You Were a Woman? Auditing Group and Counterfactual Fairness in Dermatological AI"*.
