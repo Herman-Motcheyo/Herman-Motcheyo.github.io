@@ -26,7 +26,7 @@ author:
   avatar           : "herman.jpg"
   name             : "Herman Tcheneghon Motcheyo"
   pronouns         : # example: "she/her"  
-  bio              : "Msc. in Data Science | Aspiring Data Scientist | Passionate about Machine Learning and AI | Research Enthusiast"
+  bio              : "Msc. in Data Science | Passionate about Machine Learning and AI | Research Enthusiast"
   location         : "France"
   employer         : "Université Clermont Auvergne"
   uri              : # URL
@@ -220,7 +220,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Research:
     output: true
     permalink: /:collection/:path/
   portfolio:

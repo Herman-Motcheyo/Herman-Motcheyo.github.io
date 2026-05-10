@@ -569,3 +569,72 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+
+/* Tous les éléments en gras en rouge */
+strong, b {
+  color: #8b1a1a;
+}
+ 
+/* Exception : dans les boutons, nav, et titres on garde la couleur normale */
+h1 strong, h2 strong, h3 strong,
+h4 strong, h5 strong, h6 strong,
+.btn strong,
+.nav__list strong,
+.masthead strong,
+.page__footer strong,
+.author__name strong {
+  color: inherit;
+}
+ 
+/* News table : date en rouge aussi */
+.news-date {
+  color: #8b1a1a !important;
+}
+ 
+
+body,
+  .page__content,
+  .archive__item-excerpt,
+  p, li, td, th, blockquote {
+    font-family: Georgia, "Linux Libertine", "Times New Roman", Times, serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #222;
+  }
+
+  /* Titres en sans-serif pour le contraste */
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .archive__item-title,
+  .nav__list,
+  .masthead__menu,
+  .author__name {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+
+  /* Liens dans le texte */
+  .page__content a,
+  .news-text a {
+    color: #8b1a1a;
+    text-decoration: none;
+  }
+  .page__content a:hover,
+  .news-text a:hover {
+    text-decoration: underline;
+  }
+
+  /* Gras en rouge partout */
+  strong, b {
+    color: #8b1a1a;
+  }
+
+  /* Exception : titres, nav, footer gardent leur couleur */
+  h1 strong, h2 strong, h3 strong,
+  h4 strong, h5 strong, h6 strong,
+  .masthead strong,
+  .nav__list strong,
+  .author__name strong,
+  .page__footer strong {
+    color: inherit;
+  }

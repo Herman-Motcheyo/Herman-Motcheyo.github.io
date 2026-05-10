@@ -53,12 +53,6 @@ Data warehouse design (Talend Studio); decision-support tools; Node.js / Express
 
 ---
 
-## Publications
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 ---
 
 ## Talks
@@ -87,8 +81,3 @@ Data warehouse design (Talend Studio); decision-support tools; Node.js / Express
 **Languages** — French (native), English (B2)
 
 ---
-
-## Service
-
-* Technical Writer on Medium — MLOps and Data Version Control (DVC)
-* Research Lab Website Developer — EEPER / PRICNAC
