@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u>.
-{% endif %}
-
 <style>
 .pub-note {
   font-size: 14px;
@@ -235,7 +231,7 @@ PRS). Experimental results demonstrate a substantial reduction in both execution
 </ul>
 
 <p class="pub-cv-link">
-  Find all my projects and experiences in <a href="/cv/">CV</a>!
+  Find all my projects in <a href="https://www.hermantcheneghon.tech/projects">Projects</a>!
 </p>
 
 <script>
