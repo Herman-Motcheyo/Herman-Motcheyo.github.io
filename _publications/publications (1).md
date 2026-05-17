@@ -136,7 +136,26 @@ author_profile: true
 </style>
 
 <ul class="pub-list">
-
+<li class="pub-item">
+    <div class="pub-thumb-wrap">
+      <img class="thumb-main" src="/images/cap2026.png" alt="ISMIS 2026">
+      <img class="thumb-zoom"  src="/images/cap2026.png" alt="">
+    </div>
+    <div class="pub-content">
+      <p class="pub-title">Online domain adaptation for data stream anomaly detection</p>
+      <p class="pub-authors"><strong>Herman Tcheneghon Motcheyo</strong>, Issam Falih,  Engelbert Mephu Nguifo</p>
+      <p class="pub-venue">
+        <span class="under-review">Accepted</span> CAp (Conférence sur l'Apprentissage automatique) and RFIAP (Reconnaissance des Formes, Image, Apprentissage et Perception)  (<strong>CAP & RFIAP 2026</strong>) 2026
+      </p>
+      <div class="pub-links">
+        <button class="pub-btn" onclick="toggleBlock(this, 'abs-ismis2026')">Abstract</button>
+        <a class="pub-btn" href="#" target="_blank">Paper (Available Soon)</a>
+      </div>
+      <div class="pub-collapsible" id="abs-ismis2026">
+        Anomaly detection in streaming data aims to identify abnormal patterns within continuous and potentially unbounded data flows. Despite significant progress in recent years, key challenges remain in balancing computational efficiency with detection accuracy, particularly in dynamic environments subject to concept drift. In this paper, we propose OnMROT, a novel online anomaly detection framework based on optimal transport theory. This approach dynamically adapts to evolving distributions by triggering model retraining exclusively upon the detection of concept drift. We evaluate OnMROT on 19 real-world and synthetic datasets. Experimental results demonstrate that our approach achieves state-of-the-art performance in terms of execution time, while maintaining competitive detection accuracy. These results highlight the effectiveness of leveraging optimal transport in streaming settings and the benefit of selective retraining strategies for scalable anomaly detection.
+      </div>
+    </div>
+  </li>
   <!-- 1. ISMIS 2026 -->
   <li class="pub-item">
     <div class="pub-thumb-wrap">
@@ -166,27 +185,7 @@ PRS). Experimental results demonstrate a substantial reduction in both execution
       </div>
     </div>
   </li>
-    <!-- 1. ISMIS 2026 -->
-  <li class="pub-item">
-    <div class="pub-thumb-wrap">
-      <img class="thumb-main" src="/images/geopolymer.jpg" alt="geopolymer 2026">
-      <img class="thumb-zoom"  src="/images/geopolymer.jpg" alt="">
-    </div>
-    <div class="pub-content">
-      <p class="pub-title">Integrating passive approach with Machine Learning   and Deep Learning for Thermal Comfort prediction and energy efficiency: a bibliometric analysis</p>
-      <p class="pub-authors"><strong>Herman Tcheneghon Motcheyo</strong>, Lauraine Tiogning-Djiogue, Julson aymard Tchio, Elie Kamseu, Sylvie Rossignol and Cristina Leonelli </p>
-      <p class="pub-venue">
-        <span class="under-review">Under review </span> Journal  2026
-      </p>
-      <div class="pub-links">
-        <button class="pub-btn" onclick="toggleBlock(this, 'abs-geo')">Abstract</button>
-        <a class="pub-btn" href="#" target="_blank">Paper (Available Soon)</a>
-      </div>
-      <div class="pub-collapsible" id="abs-geo">
-      This paper presents a comprehensive bibliometric analysis of the scientific literature on AI-based thermal comfort prediction and sustainable building practices from 2006 to 2025 to achieve optimal indoor environmental quality. The analysis is based on 644 papers and 2,346 authors from the Scopus database. The focus lies on the role of porous materials (e.g. pore volume, size, connectivity and hygroscopy) in optimizing thermal regulation and the integration of artificial intelligence (AI) for sustainable comfort solutions. The study underscores the evolution of research and identifies emerging trends in thermal comfort prediction. It also reveals the untapped potential of sustainable porous materials and AI-driven adaptive algorithms to address gaps in passive thermal comfort research. The study emphasizes the physicochemical properties of the building envelope’s as a pivotal frontier. It also provides actionable insights for researchers, practitioners, and policymakers. The findings aim to guide future innovation and support the development of sustainable, occupant-centered indoor environments.
-      </div>
-    </div>
-  </li>
+   
 
   <!-- 3. CRI 2025 -->
   <li class="pub-item">

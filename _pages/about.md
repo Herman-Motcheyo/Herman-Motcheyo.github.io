@@ -57,13 +57,17 @@ Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairnes
 <div class="news-section">
 <h2>News</h2>
 <table class="news-table">
+<tr>
+    <td class="news-date">May. 2026</td>
+    <td class="news-text">Paper accepted at the <strong> CAp (Conférence sur l'Apprentissage automatique)(<a href="https://caprfiap2026.sciencesconf.org/">CAp & RFIAP 2026</a>)</strong>: <em>"Online domain adaptation for data stream anomaly detection"</em></td>
+  </tr>
   <tr>
     <td class="news-date">Apr. 2026</td>
-    <td class="news-text">Paper accepted at the <strong>28th International Symposium on Methodologies for Intelligent Systems (<a href="#">ISMIS 2026</a>)</strong>: <em>"Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction"</em></td>
+    <td class="news-text">Paper accepted at the <strong>28th International Symposium on Methodologies for Intelligent Systems (<a href="https://projet.liris.cnrs.fr/ismis2026/index.html">ISMIS 2026</a>)</strong>: <em>"Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction"</em></td>
   </tr>
   <tr>
     <td class="news-date">Mar. 2026</td>
-    <td class="news-text">Started my internship at <strong><a href="https://limos.fr">LIMOS (CNRS)</a></strong> on data streams, domain adaptation, and optimal transport.</td>
+    <td class="news-text">Started my internship at <strong><a href="https://limos.fr"> CNRS(LIMOS)</a></strong> on data streams, domain adaptation, and optimal transport.</td>
   </tr>
   <tr>
     <td class="news-date">Jan. 2026</td>
