@@ -148,10 +148,10 @@ author_profile: true
         <span class="under-review">Accepted</span> CAp (Conférence sur l'Apprentissage automatique) and RFIAP (Reconnaissance des Formes, Image, Apprentissage et Perception)  (<strong>CAP & RFIAP 2026</strong>) 2026
       </p>
       <div class="pub-links">
-        <button class="pub-btn" onclick="toggleBlock(this, 'abs-ismis2026')">Abstract</button>
+        <button class="pub-btn" onclick="toggleBlock(this, 'abs-cap2026')">Abstract</button>
         <a class="pub-btn" href="#" target="_blank">Paper (Available Soon)</a>
       </div>
-      <div class="pub-collapsible" id="abs-ismis2026">
+      <div class="pub-collapsible" id="abs-cap2026">
         Anomaly detection in streaming data aims to identify abnormal patterns within continuous and potentially unbounded data flows. Despite significant progress in recent years, key challenges remain in balancing computational efficiency with detection accuracy, particularly in dynamic environments subject to concept drift. In this paper, we propose OnMROT, a novel online anomaly detection framework based on optimal transport theory. This approach dynamically adapts to evolving distributions by triggering model retraining exclusively upon the detection of concept drift. We evaluate OnMROT on 19 real-world and synthetic datasets. Experimental results demonstrate that our approach achieves state-of-the-art performance in terms of execution time, while maintaining competitive detection accuracy. These results highlight the effectiveness of leveraging optimal transport in streaming settings and the benefit of selective retraining strategies for scalable anomaly detection.
       </div>
     </div>

@@ -65,6 +65,18 @@ Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairnes
     <td class="news-date">Apr. 2026</td>
     <td class="news-text">Paper accepted at the <strong>28th International Symposium on Methodologies for Intelligent Systems (<a href="https://projet.liris.cnrs.fr/ismis2026/index.html">ISMIS 2026</a>)</strong>: <em>"Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction"</em></td>
   </tr>
+   <tr>
+  <td class="news-date">Apr. 2026</td>
+  <td class="news-text">
+    🎉 Excited to launch my 
+    <strong>
+      YouTube Channel 
+      (<a href="https://www.youtube.com/@hermanmotcheyo">Tcheneghon Motcheyo Herman</a>)
+    </strong>  
+    <em>"I will share and learn many new things with you!!"</em> 
+    One or two videos every week 
+  </td>
+</tr>
   <tr>
     <td class="news-date">Mar. 2026</td>
     <td class="news-text">Started my internship at <strong><a href="https://limos.fr"> CNRS(LIMOS)</a></strong> on data streams, domain adaptation, and optimal transport.</td>
