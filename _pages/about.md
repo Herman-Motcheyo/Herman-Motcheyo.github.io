@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am **Herman Tcheneghon Motcheyo**, a **Research Intern at LIMOS Laboratory** (ISIMA – Université Clermont Auvergne). My research sits at the intersection of **Optimal Transport** and **Trustworthy Machine Learning**, with applications to anomaly detection, domain adaptation, and fairness.
 
-I am **Herman Tcheneghon Motcheyo**, a Master's student in International Computer Science at **ISIMA – Université Clermont Auvergne**. My research sits at the intersection of **Optimal Transport**, and **Trustworthy Machine Learning**, with applications to anomaly detection, domain adaptation, and fairness.
-
-Currently, I am an intern at **LIMOS Laboratory**, where I design novel algorithms for anomaly detection in streaming data using optimal transport and domain adaptation.
+I design novel algorithms for anomaly detection in streaming data using optimal transport and domain adaptation.
 
 Research Interests
 ======
