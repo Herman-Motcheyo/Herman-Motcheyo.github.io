@@ -54,8 +54,11 @@ Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairnes
 </style>
 
 <div class="news-section">
-<h2>News</h2>
 <table class="news-table">
+<tr>
+    <td class="news-date">Jun. 2026</td>
+    <td class="news-text">I will be attending the summer school  <strong> AI and Data for Science, Business, and Society from June 29 to July 2, 2026-(<a href="https://hi-paris.fr/research/summer-school/">Hi Paris & ELLIS </a>)</strong></td>
+  </tr>
 <tr>
     <td class="news-date">May. 2026</td>
     <td class="news-text">Paper accepted at the <strong> CAp (Conférence sur l'Apprentissage automatique)(<a href="https://caprfiap2026.sciencesconf.org/">CAp & RFIAP 2026</a>)</strong>: <em>"Online domain adaptation for data stream anomaly detection"</em></td>
