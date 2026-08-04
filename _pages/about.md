@@ -56,6 +56,10 @@ Machine Learning, Deep Learning, Optimal Transport,  Domain Adaptation,  Fairnes
 <div class="news-section">
 <table class="news-table">
 <tr>
+    <td class="news-date">Aug. 2026</td>
+    <td class="news-text">I released the first version of <strong><a href="https://github.com/Quick-AI-ML/moofs">moofs</a></strong>, a python library for <strong> <a href="https://quick-ai-ml.github.io/moofs/"> multiobjective feature selection</a> </strong>.</td>
+  </tr>
+<tr>
     <td class="news-date">Jun. 2026</td>
     <td class="news-text">I will be attending the summer school  <strong> AI and Data for Science, Business, and Society from June 29 to July 2, 2026-(<a href="https://hi-paris.fr/research/summer-school/">Hi Paris & ELLIS </a>)</strong></td>
   </tr>
