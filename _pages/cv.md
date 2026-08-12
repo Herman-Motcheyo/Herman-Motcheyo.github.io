@@ -10,48 +10,71 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+**Summer School HI Paris & ELLIS** , Paris Telecom, 29jun - 02 july-2026 
 
-**M.S. International Computer Science** — ISIMA, Université Clermont Auvergne, France · 2025–2026  
-*MIAI Cluster M2 Excellence Scholar*
+**M.S. International Computer Science**. ISIMA, Université Clermont Auvergne, France · 2025–2026  
 
-**M.S. Computer Science – Data Science** — University of Yaoundé I, Cameroon · 2021–2024  
+**M.S. Data Science** . University of Yaoundé I, Cameroon · 2021–2024
 
-**B.S. Computer Science** — University of Yaoundé I, Cameroon · 2018–2021
+**B.S. Computer Science** . University of Yaoundé I, Cameroon · 2018–2021
 
 ---
 
 ## Research Experience
 
-**Junior Researcher / Research Intern** — LIMOS (CNRS UMR 6158), Clermont-Ferrand · Oct 2025–Present  
-Optimal transport for anomaly detection in multivariate data streams; domain adaptation; online learning.  
+**Machine Learning  Intern** . CNRS - LIMOS (UMR 6158), Clermont-Ferrand · Oct 2025–Present 
+- Designing test-time domain adaptation and optimal transport methods for anomaly detection in multivariate data streams.
 
+**Graduate Research Assistant: Interdisciplinary AI for Explainable Modeling** . EEPER / PRICNAC EU Project · May 2024–Jun 2025  
+- Worked on gradual pattern mining discovery
+- Worked on Formal Concept Analysis to build explainable neural networks, applied to sustainable-materials data.
+- Conducted a bibliometrix analysis on ML/DL techniques for thermal comfort modelling
 
-**Research Assistant** — EEPER / PRICNAC EU Project · May 2024–Jun 2025  
-Gradual pattern mining, Formal Concept Analysis, AI for sustainable materials (geopolymers).  
-*Supervisors: Prof. Elie Kamseu, Dr. Lauraine Tiogning*
+**Research Assistant: Fairness in Medical AI** . University of Yaoundé I · 2025–Present  
+- Worked on fairness in dermatological AI
 
-**Research Intern** — EEPER / MIPROMALO / PRICNAC · Nov 2023–Apr 2024  
-Literature review and data collection on hygroscopic properties of geopolymer matrices.
+**Research Intern: AI for Materials Data** . EEPER / MIPROMALO / PRICNAC · Nov 2023–Apr 2024  
+- Conducted research on multi-objective feature selection algorithm applied to material discovery.
 
-**Research Intern** — UMMISCO Laboratory · Dec 2022–Oct 2023  
-Dimensionality reduction and feature selection; comparative study of algorithms.
-
----
-
-## Teaching Experience
-
-**Teaching Assistant** — National Advanced School of Engineering, Yaoundé · Sep 2023–Aug 2025  
-Machine learning and database theory — lectures, practical sessions, exam supervision (2 years).  
-*Supervisor: Dr. Lauraine Tiogning*
+**Research Intern: Dimensionality Reduction & Feature Selection** . UMMISCO Laboratory · Dec 2022–Oct 2023  
+- Worked on feature selection methods (filter, wrapper, embedded)
 
 ---
 
 ## Industry Experience
 
-**Business Intelligence Developer Intern** — BUNEC, Cameroon · Aug 2021–Nov 2022  
-Data warehouse design (Talend Studio); decision-support tools; Node.js / Express data pipelines.
+**Business Intelligence Developer Intern** : BUNEC, Cameroon · Aug 2021–Nov 2022  
+- Designed a Talend Studio data warehouse and Node.js/Express data pipelines for decision-support tools.
+- Talend open Studio Trainer 
 
 ---
+
+## Honors & Awards
+
+* **Selected Participant, Hi! PARIS & ELLIS Summer School**. "AI and Data for Science, Business, and Society," Paris, France (Jun–Jul 2026)
+* **Selected Participant, Lisbon Machine Learning School (LxMLS 2026)**. ELLIS / IBM / IST, Lisbon, Portugal (selected from 500+ applicants; declined due to scheduling conflict)
+* **MIAI Cluster M2 Excellence Scholarship**,Highly competitive, selective award, Clermont-Ferrand, France (2025–2026)
+* **Top 20 Finalist**, CANAM Cameroon National AI Competition (2024)
+* **Master's Research Scholarship**, Selected by the EU-funded PRICNAC Project to fund Master's studies at University of Yaoundé I
+* **EU Research Fellow**, PRICNAC Project (2022–2024)
+* **Travel Fellow**, AUF(Agence Universitaire de la Francophonie) VaRRIWA Exhibition, Lomé, Togo (Sep 2023)
+* **Student Participation Award**, EDBT 2023 — 26th International Conference on Extending Database Technology
+
+---
+
+## Technical Skills
+
+**Languages** . Python,  Java, SQL  
+**ML / AI** . PyTorch, TensorFlow, Scikit-learn, POT (Optimal Transport)  
+**Tools** . Git, LaTeX,  Talend Studio  
+**Spoken Languages**. French (native), English (B2), GHOMALA (native)
+
+---
+
+## Teaching Experience
+
+**Teaching Assistant**, National Advanced School of Engineering, Yaoundé · Sep 2023–Jun 2025  
+- Taught Introduction to Machine Learning, and Database Theory to 100+ undergraduates, including practicals and exam supervision.
 
 ---
 
@@ -60,24 +83,3 @@ Data warehouse design (Talend Studio); decision-support tools; Node.js / Express
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
-
----
-
-## Honors & Awards
-
-* **MIAI Cluster M2 Excellence Scholarship**, Clermont-Ferrand, France (2025–2026)
-* **Top 20 Finalist**, CANAM Cameroon National AI Competition (2024)
-* **EU Research Fellow**, PRICNAC Project (2022–2024)
-* **Travel Fellow**, AUF — VaRRIWA Exhibition, Lomé, Togo (Sep 2023)
-* **Student Participation Award**, EDBT 2023 — 26th International Conference on Extending Database Technology
-
----
-
-## Skills
-
-**Languages** — Python, C, Java, SQL, JavaScript  
-**ML / AI** — PyTorch, TensorFlow, Scikit-learn, POT (Optimal Transport), Hugging Face  
-**Tools** — Git, LaTeX, Azure ML, Power BI, Talend Studio  
-**Languages** — French (native), English (B2)
-
----
