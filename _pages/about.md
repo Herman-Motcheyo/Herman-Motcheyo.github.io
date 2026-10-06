@@ -99,7 +99,7 @@ News
   </tr>
   <tr>
     <td class="news-date">03/2026</td>
-    <td class="news-text">I started a research internship at <a href="https://www.cnrs.fr/fr">CNRS</a> on data streams, domain adaptation, and optimal transport.</td>
+    <td class="news-text">I started a research internship at <a href="https://www.cnrs.fr/fr">CNRS</a> on test-time domain adaptation, and optimal transport.</td>
   </tr>
   <tr>
     <td class="news-date">01/2026</td>
@@ -107,7 +107,7 @@ News
   </tr>
   <tr>
     <td class="news-date">10/2025</td>
-    <td class="news-text">I joined [LIMOS](https://limos.fr/) for my M2 research project on optimal transport for streaming data.</td>
+    <td class="news-text">I joined <a href="https://limos.fr/">LIMOS </a> for my M2 research project on optimal transport for streaming data.</td>
   </tr>
 
   <tr>
