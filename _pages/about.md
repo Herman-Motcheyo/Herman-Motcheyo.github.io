@@ -112,7 +112,7 @@ News
 
   <tr>
     <td class="news-date">10/2025</td>
-    <td class="news-text">Our work on porous geopolymers is published in <em>Open Ceramics</em>.</td>
+    <td class="news-text">Our work on porous geopolymers is published in <em>  <a href="https://www.sciencedirect.com/science/article/pii/S2666539525001245"> Open Ceramics  </a> </em>.</td>
   </tr>
   <tr>
     <td class="news-date">05/2025</td>
