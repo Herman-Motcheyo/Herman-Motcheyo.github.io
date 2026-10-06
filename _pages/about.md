@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 Hello, I'm Herman Tcheneghon Motcheyo.
-I am a PhD student at [Concordia University](https://www.concordia.ca/), at the [Atlas Analytics Lab](https://atlasanalyticslab.github.io/) . My work focuses on generative models, in particular diffusion models. Previously, I was an intern at CNRS in [Miners Teams](https://miners.limos.fr/).
+I am a PhD student at [Concordia University](https://www.concordia.ca/), in the [Atlas Analytics Lab](https://atlasanalyticslab.github.io/). My work focuses on generative models, in particular diffusion models. Previously, I was a research intern in the [Miners team](https://miners.limos.fr/) at [LIMOS](https://limos.fr/) (CNRS).
+
 Email: hermanmotcheyo (at) gmail (dot) com
 
 Research Interests
@@ -67,23 +68,20 @@ News
 ======
 <table class="news-table">
   <tr>
-    <td class="news-date">9/2026</td>
-    <td class="news-text">I started my PhD at   <a href="https://www.concordia.ca/" > Concordia University</a></td>
+    <td class="news-date">09/2026</td>
+    <td class="news-text">I started my PhD at <a href="https://www.concordia.ca/">Concordia University</a>.</td>
   </tr>
-    <tr>
-    <td class="news-date">9/2026</td>
-    <td class="news-text">Unsupervised Online Anomaly Detection in Data Streams via Optimal Transport is accepted at the 
-  <a href="https://sites.google.com/view/icdm-owad-2026-workshop/home">OWAD Workshop  </a> <a href="https://icdm2026.neu.edu.cn/"> at ICDM 2026 </a> 
-  
-   </td>
-  </tr>
-    <tr>
-    <td class="news-date">8/2026</td>
-    <td class="news-text">I defended my internship project.</td>
+  <tr>
+    <td class="news-date">09/2026</td>
+    <td class="news-text"><em>Unsupervised Online Anomaly Detection in Data Streams via Optimal Transport</em> is accepted at the <a href="https://sites.google.com/view/icdm-owad-2026-workshop/home">OWAD Workshop</a> at <a href="https://icdm2026.neu.edu.cn/">ICDM 2026</a>.</td>
   </tr>
   <tr>
     <td class="news-date">08/2026</td>
-    <td class="news-text"><a href="https://github.com/Quick-AI-ML/moofs"> moofs </a>, a Python library for <a href="https://quick-ai-ml.github.io/moofs/">multiobjective feature selection</a>, is released (v1).</td>
+    <td class="news-text">I defended my research internship project.</td>
+  </tr>
+  <tr>
+    <td class="news-date">08/2026</td>
+    <td class="news-text"><a href="https://github.com/Quick-AI-ML/moofs">moofs</a>, a Python library for <a href="https://quick-ai-ml.github.io/moofs/">multiobjective feature selection</a>, is released (v1).</td>
   </tr>
   <tr>
     <td class="news-date">07/2026</td>
@@ -91,15 +89,19 @@ News
   </tr>
   <tr>
     <td class="news-date">05/2026</td>
-    <td class="news-text">Online Domain Adaptation for Data Stream Anomaly Detection is accepted at <a href="https://caprfiap2026.sciencesconf.org/">CAp 2026</a>.</td>
+    <td class="news-text"><em>Online Domain Adaptation for Data Stream Anomaly Detection</em> is accepted at <a href="https://caprfiap2026.sciencesconf.org/">CAp 2026</a>.</td>
   </tr>
   <tr>
     <td class="news-date">04/2026</td>
-    <td class="news-text">Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction is accepted at <a href="https://link.springer.com/chapter/10.1007/978-3-032-32643-0_8">ISMIS 2026</a>.</td>
+    <td class="news-text"><em>Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction</em> is accepted at <a href="https://link.springer.com/chapter/10.1007/978-3-032-32643-0_8">ISMIS 2026</a>.</td>
   </tr>
   <tr>
     <td class="news-date">03/2026</td>
-    <td class="news-text">I started a research internship at <a href="https://www.cnrs.fr/fr">CNRS</a> on test-time domain adaptation, and optimal transport.</td>
+    <td class="news-text">I started a research internship at <a href="https://www.cnrs.fr/fr">CNRS</a> on test-time domain adaptation and optimal transport.</td>
+  </tr>
+   <tr>
+    <td class="news-date">03/2026</td>
+    <td class="news-text">I defended my research project at <a href="https://limos.fr/">LIMOS</a> on domain adaptation for data stream.</td>
   </tr>
   <tr>
     <td class="news-date">01/2026</td>
@@ -107,12 +109,11 @@ News
   </tr>
   <tr>
     <td class="news-date">10/2025</td>
-    <td class="news-text">I joined <a href="https://limos.fr/">LIMOS </a> for my M2 research project on optimal transport for streaming data.</td>
+    <td class="news-text">I joined <a href="https://limos.fr/">LIMOS</a> for my M2 research project on optimal transport for streaming data.</td>
   </tr>
-
   <tr>
     <td class="news-date">10/2025</td>
-    <td class="news-text">Our work on porous geopolymers is published in <em>  <a href="https://www.sciencedirect.com/science/article/pii/S2666539525001245"> Open Ceramics  </a> </em>.</td>
+    <td class="news-text">Our work on porous geopolymers is published in <a href="https://www.sciencedirect.com/science/article/pii/S2666539525001245">Open Ceramics</a>.</td>
   </tr>
   <tr>
     <td class="news-date">05/2025</td>
@@ -120,6 +121,6 @@ News
   </tr>
   <tr>
     <td class="news-date">05/2024</td>
-    <td class="news-text">Top 20 finalist at the  <a href="https://www.canam.com/">CANAM</a>  AI Competition (National).</td>
+    <td class="news-text">Top 20 finalist at the <a href="https://www.canam.com/">CANAM</a> AI Competition (National).</td>
   </tr>
 </table>
