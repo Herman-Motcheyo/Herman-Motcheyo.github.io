@@ -73,7 +73,7 @@ News
     <tr>
     <td class="news-date">9/2026</td>
     <td class="news-text">Unsupervised Online Anomaly Detection in Data Streams via Optimal Transport is accepted at the 
-  <a href="https://sites.google.com/view/icdm-owad-2026-workshop/home">OWAD Workshop  </a> (<a href="https://icdm2026.neu.edu.cn/"> at ICDM 2026 </a> )
+  <a href="https://sites.google.com/view/icdm-owad-2026-workshop/home">OWAD Workshop  </a> <a href="https://icdm2026.neu.edu.cn/"> at ICDM 2026 </a> 
   
    </td>
   </tr>
