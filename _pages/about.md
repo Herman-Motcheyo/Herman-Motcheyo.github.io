@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 Hello, I'm Herman Tcheneghon Motcheyo.
-I am a PhD student at [Concordia University](https://www.concordia.ca/), in the [Atlas Analytics Lab](https://atlasanalyticslab.github.io/). My work focuses on generative models, in particular diffusion models. Previously, I was a research intern in the [Miners team](https://miners.limos.fr/) at [LIMOS](https://limos.fr/) (CNRS).
+I am a PhD student at [Concordia University](https://www.concordia.ca/), in the [Atlas Analytics Lab](https://atlasanalyticslab.github.io/). My work focuses on generative models, in particular diffusion models. Previously, I was a research intern et CNRS in the [Miners team](https://miners.limos.fr/). 
 
 Email: hermanmotcheyo (at) gmail (dot) com
+
+Feel free to reach out if you would like to discuss research or anything else.
 
 Research Interests
 ======
