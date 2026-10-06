@@ -120,6 +120,6 @@ News
   </tr>
   <tr>
     <td class="news-date">05/2024</td>
-    <td class="news-text">Top 20 finalist at the [CANAM(https://www.canam.com/)] AI Competition (National).</td>
+    <td class="news-text">Top 20 finalist at the  <a href="https://www.canam.com/">CANAM</a>  AI Competition (National).</td>
   </tr>
 </table>
