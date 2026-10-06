@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+**PhD in Computer science** , Concordia University, Canada, sept 2026- present 
+
 **Summer School HI Paris & ELLIS** , Paris Telecom, 29jun - 02 july-2026 
 
 **M.S. International Computer Science**. ISIMA, Université Clermont Auvergne, France · 2025–2026  
@@ -22,7 +24,7 @@ redirect_from:
 
 ## Research Experience
 
-**Machine Learning  Intern** . CNRS - LIMOS (UMR 6158), Clermont-Ferrand · Oct 2025–Present 
+**Machine Learning  Intern** . CNRS - LIMOS (UMR 6158), Clermont-Ferrand · Oct 2025–Sep 2026 
 - Designing test-time domain adaptation and optimal transport methods for anomaly detection in multivariate data streams.
 
 **Graduate Research Assistant: Interdisciplinary AI for Explainable Modeling** . EEPER / PRICNAC EU Project · May 2024–Jun 2025  

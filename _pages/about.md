@@ -1,29 +1,27 @@
 ---
 permalink: /
-title: "About me" 
+title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I am **Herman Tcheneghon Motcheyo**, a **Research Intern at CNRS-LIMOS Laboratory** (ISIMA – Université Clermont Auvergne). My research sits at the intersection of **Optimal Transport** and **Trustworthy Machine Learning**, with applications to anomaly detection, domain adaptation, and fairness.
-
-I design novel algorithms for anomaly detection in streaming data using optimal transport and domain adaptation.
+Hello, I'm Herman Tcheneghon Motcheyo.
+I am a PhD student at [Concordia University](https://www.concordia.ca/), at the [Atlas Analytics Lab](https://atlasanalyticslab.github.io/) . My work focuses on generative models, in particular diffusion models. Previously, I was an intern at CNRS in [Miners Teams](https://miners.limos.fr/).
+Email: hermanmotcheyo (at) gmail (dot) com
 
 Research Interests
 ======
-Machine Learning, Deep Learning, Optimal Transport,  Trustworthy AI
+Generative AI, Diffusion Models, Optimal Transport, Trustworthy Machine Learning
 
 <style>
-.news-section h2 {
-  font-size: 1.2em;
-  margin-bottom: 0.8rem;
-}
-.news-table {
+.news-table, .pub-list {
   width: 100%;
-  border-collapse: collapse;
   font-size: 14px;
   line-height: 1.6;
+}
+.news-table {
+  border-collapse: collapse;
 }
 .news-table tr {
   border-bottom: 1px solid #f0f0f0;
@@ -35,84 +33,93 @@ Machine Learning, Deep Learning, Optimal Transport,  Trustworthy AI
   white-space: nowrap;
   vertical-align: top;
   padding: 6px 16px 6px 0;
-  color: #555;
-  font-weight: 600;
-  width: 90px;
+  color: #777;
+  width: 80px;
 }
 .news-text {
   vertical-align: top;
   padding: 6px 0;
   color: #333;
 }
-.news-text a {
+.news-table a, .pub-list a {
   color: #8b1a1a;
   text-decoration: none;
 }
-.news-text a:hover {
+.news-table a:hover, .pub-list a:hover {
   text-decoration: underline;
+}
+.pub-list li {
+  margin-bottom: 14px;
+  list-style: none;
+}
+.pub-list .pub-title {
+  font-weight: 600;
+}
+.pub-list .pub-meta {
+  color: #555;
+}
+.pub-list .pub-desc {
+  color: #777;
 }
 </style>
 
-<div class="news-section">
+News
+======
 <table class="news-table">
-<tr>
-    <td class="news-date">Aug. 2026</td>
-    <td class="news-text">I released the first version of <strong><a href="https://github.com/Quick-AI-ML/moofs">moofs</a></strong>, a python library for <strong> <a href="https://quick-ai-ml.github.io/moofs/"> multiobjective feature selection</a> </strong>.</td>
+  <tr>
+    <td class="news-date">9/2026</td>
+    <td class="news-text">I started my PhD at   <a href="https://www.concordia.ca/" > Concordia University</a></td>
   </tr>
-<tr>
-    <td class="news-date">Jun. 2026</td>
-    <td class="news-text">I will be attending the summer school  <strong> AI and Data for Science, Business, and Society from June 29 to July 2, 2026-(<a href="https://hi-paris.fr/research/summer-school/">Hi Paris & ELLIS </a>)</strong></td>
+    <tr>
+    <td class="news-date">9/2026</td>
+    <td class="news-text">Unsupervised Online Anomaly Detection in Data Streams via Optimal Transport is accepted at 
+  <a href="https://sites.google.com/view/icdm-owad-2026-workshop/home">ICDMW </a> (<a href="https://icdm2026.neu.edu.cn/">ICDM</a> )
+  
+   </td>
   </tr>
-<tr>
-    <td class="news-date">May. 2026</td>
-    <td class="news-text">Paper accepted at the <strong> CAp (Conférence sur l'Apprentissage automatique)(<a href="https://caprfiap2026.sciencesconf.org/">CAp & RFIAP 2026</a>)</strong>: <em>"Online domain adaptation for data stream anomaly detection"</em></td>
+    <tr>
+    <td class="news-date">8/2026</td>
+    <td class="news-text">I defended my internship project.</td>
   </tr>
   <tr>
-    <td class="news-date">Apr. 2026</td>
-    <td class="news-text">Paper accepted at the <strong>28th International Symposium on Methodologies for Intelligent Systems (<a href="https://projet.liris.cnrs.fr/ismis2026/index.html">ISMIS 2026</a>)</strong>: <em>"Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction"</em></td>
-  </tr>
-   <tr>
-  <td class="news-date">Apr. 2026</td>
-  <td class="news-text">
-    🎉 Excited to launch my 
-    <strong>
-      YouTube Channel 
-      (<a href="https://www.youtube.com/@hermanmotcheyo">Tcheneghon Motcheyo Herman</a>)
-    </strong>  
-    <em>"I will share and learn many new things with you!!"</em> 
-    One or two videos every week 
-  </td>
-</tr>
-  <tr>
-    <td class="news-date">Mar. 2026</td>
-    <td class="news-text">Started my internship at <strong><a href="https://limos.fr"> CNRS(LIMOS)</a></strong> on data streams, domain adaptation, and optimal transport.</td>
+    <td class="news-date">08/2026</td>
+    <td class="news-text"><a href="https://github.com/Quick-AI-ML/moofs"> moofs </a>, a Python library for <a href="https://quick-ai-ml.github.io/moofs/">multiobjective feature selection</a>, is released (v1).</td>
   </tr>
   <tr>
-    <td class="news-date">Jan. 2026</td>
-    <td class="news-text">Poster accepted at <strong><a href="https://conferences.sigappfr.org/egc2026/">EGC 2026</a></strong>: <em>"Accélération des motifs graduels fréquents avec réduction de dimensionnalité"</em></td>
+    <td class="news-date">07/2026</td>
+    <td class="news-text">I attended the <a href="https://hi-paris.fr/research/summer-school/">Hi! PARIS &amp; ELLIS Summer School</a>.</td>
   </tr>
   <tr>
-    <td class="news-date">Oct. 2025</td>
-    <td class="news-text">Joined <strong>LIMOS</strong> for my M2 research project on optimal transport for streaming data.</td>
+    <td class="news-date">05/2026</td>
+    <td class="news-text">Online Domain Adaptation for Data Stream Anomaly Detection is accepted at <a href="https://caprfiap2026.sciencesconf.org/">CAp 2026</a>.</td>
   </tr>
   <tr>
-    <td class="news-date">2025</td>
-    <td class="news-text">Paper accepted at <strong>CRI 2025</strong>: <em>"<a href="http://cri-info.cm/">Still Malignant if You Were a Woman? Auditing Group and Counterfactual Fairness in Dermatological AI</a>"</em></td>
+    <td class="news-date">04/2026</td>
+    <td class="news-text">Accelerating Frequent Gradual Pattern Discovery through Dimensionality Reduction is accepted at <a href="https://link.springer.com/chapter/10.1007/978-3-032-32643-0_8">ISMIS 2026</a>.</td>
   </tr>
   <tr>
-    <td class="news-date">2025</td>
-    <td class="news-text">Published in <strong>Open Ceramics</strong> (Q1/Q2, Elsevier): <em>"<a href="https://doi.org/10.1016/j.oceram.2025.100857">Machine Learning for the Optimization of Porosity-Hygroscopy Correlations of Porous Geopolymers</a>"</em></td>
+    <td class="news-date">03/2026</td>
+    <td class="news-text">I started a research internship at <a href="https://www.cnrs.fr/fr">CNRS</a> on data streams, domain adaptation, and optimal transport.</td>
   </tr>
   <tr>
-    <td class="news-date">2025</td>
-    <td class="news-text">Awarded the <strong>MIAI Cluster M2 Excellence Scholarship</strong> (Grenoble AI Institute / Clermont-Ferrand) </td>
+    <td class="news-date">01/2026</td>
+    <td class="news-text">A poster on frequent gradual patterns is accepted at <a href="https://conferences.sigappfr.org/egc2026/">EGC 2026</a>.</td>
   </tr>
   <tr>
-    <td class="news-date">2024</td>
-    <td class="news-text"><strong>Top 20 Finalist</strong> — CANAM Cameroon National AI Competition 🏆</td>
+    <td class="news-date">10/2025</td>
+    <td class="news-text">I joined [LIMOS](https://limos.fr/) for my M2 research project on optimal transport for streaming data.</td>
+  </tr>
+
+  <tr>
+    <td class="news-date">10/2025</td>
+    <td class="news-text">Our work on porous geopolymers is published in <em>Open Ceramics</em>.</td>
+  </tr>
+  <tr>
+    <td class="news-date">05/2025</td>
+    <td class="news-text">I received the MIAI Cluster M2 Excellence Scholarship.</td>
+  </tr>
+  <tr>
+    <td class="news-date">05/2024</td>
+    <td class="news-text">Top 20 finalist at the [CANAM(https://www.canam.com/)] AI Competition (National).</td>
   </tr>
 </table>
-</div>
-
-
-📧 **Contact:** [hermanmotcheyo@gmail.com](mailto:hermanmotcheyo@gmail.com)  
