@@ -11,8 +11,6 @@ I am a PhD student at [Concordia University](https://www.concordia.ca/), in the 
 
 Email: hermanmotcheyo (at) gmail (dot) com
 
-Feel free to reach out if you would like to discuss research or anything else.
-
 Research Interests
 ======
 Generative AI, Diffusion Models, Optimal Transport, Trustworthy Machine Learning
